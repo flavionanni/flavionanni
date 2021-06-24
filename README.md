@@ -31,8 +31,8 @@
 ##
 ### GitHub Statics
 [![flavionanni GitHub stats](https://github-readme-stats.vercel.app/api?username=flavionanni&show_icons=true&theme=omni)
-](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavionanni&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+](https://github.com/flavionanni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavionanni&theme=omni)](https://github.com/flavionanni)
 
 
 
