@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hello ! My name is Flávio Germano 💻
 
+👨‍🎓 Majoring in Computer Science from the University Anhembi Morumbi (Class of 2022)
 <!--
 **flavionanni/flavionanni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
