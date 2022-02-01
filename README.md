@@ -4,7 +4,7 @@
 
   • 🇧🇷 I'm from Brazil  
   • 👨‍🎓 Majoring in Computer Science from the University Anhembi Morumbi (Class of 2022)  
-  • 🌱 I’m currently learning NodeJS
+  • 🌱 I’m currently learning Java
 ##  
 ### Tech & Tools Preference
 <div style="display: inline_block"><br>
